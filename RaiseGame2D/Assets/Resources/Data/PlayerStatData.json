@@ -1,0 +1,7 @@
+{
+    "MaxHP": 550.0,
+    "Attack": 40.0,
+    "Defense": 1.0,
+    "Speed": 10.0,
+    "AttackCoolTime": 1.5
+}
